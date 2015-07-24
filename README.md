@@ -39,6 +39,7 @@ volumeRingtone  |number  |1        |If 1 the volume is the highest, 0 is no volu
 
 Method              |Parameters  |Description
 --------------------|------------|-------------------------------------------------
+muteDTMF(mute)      | mute: boolean|If mute is true DTMF tones playback is muted.
 pause()             |            |Pauses any click, ringing or DTMF sound played.
 playClick()         |            |Plays the click base64 media.
 playDtmfRingback()  |            |Plays the dtmf-ringback base64 media.
