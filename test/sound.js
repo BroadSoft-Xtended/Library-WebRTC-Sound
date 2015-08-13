@@ -5,7 +5,7 @@ describe('sound', function() {
     test.createModelAndView('sound', {
         sound: require('../')
     });
-    eventbus = global.bdsft_client_instances.test.eventbus;
+    eventbus = global.bdsft_client_instances.test.core.eventbus;
   });
 
   it('incoming call and playClick', function() {

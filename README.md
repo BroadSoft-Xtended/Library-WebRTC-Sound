@@ -2,7 +2,7 @@
 
 Handles ringing, click and DTMF sounds.
 
-Model : bdsft_webrtc.default.sound
+Namespace : bdsft_webrtc.default.sound
 
 ## Media
 <a name="media"></a>
