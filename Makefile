@@ -1,3 +1,3 @@
 all: js/media.js
 
-include ./node_modules/webrtc-core/makefile.defs
+include ./node_modules/bdsft-sdk-view/makefile.defs
